@@ -1,0 +1,2 @@
+# imt2200_actividad1
+Mi repositorio no tiene mucho que explicar. Simplemente contiene un README con mi nombre completo como fue pedido y la carpeta de la actividad 1 con todos los archivos pedidos y la imagen del mapa con mi apellido.
