@@ -1,2 +1,2 @@
 # imt2200_actividad1
-Mi repositorio no tiene mucho que explicar. Simplemente contiene un README con mi nombre completo como fue pedido y la carpeta de la actividad 1 con todos los archivos pedidos y la imagen del mapa con mi apellido.
+Mi entrega en el repositorio contiene 5 archivos. Uno de los archivos es la imagen del gráfico de la población en Santiago por manzana la cual lleva mi nombre según lo indicado en las instrucciones. Otro archivo es el jupyter notebook que contiene el código que crea el gráfico y la imagen de este. Los otros archivos contienen datos sobre las manzanas y la población por comuna. Mi repositorio hasta ahora solo contiene un Readme con mi nombre completo como fue pedido y la carpeta de la actividad 1 con todos los archivos pedidos.
